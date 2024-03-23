@@ -1,0 +1,84 @@
+@media (max-width: 1920px){
+    .mainContent{
+        margin-left: 10rem;
+        margin-top:2rem;
+    }
+    .pagecount{
+        margin-left: 10rem;
+      
+    }
+    .searchBar{
+        margin-left:10rem;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 1680px){
+    .mainContent{
+        margin-left: 2rem;
+        padding-right:3rem;
+    }
+    .searchBar{
+        margin-left: 2rem;
+    }
+    .pagecount{
+        margin-left: 2rem;
+    }
+}
+
+/* SieeMenuGeneral Stylings */
+#content {
+    min-height: 100vh;
+    background-color: #e2e2e2;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+/* Button primary color overide */
+.btn-primary{
+    background-color: #03363d;
+}
+/* End Button styling */
+
+
+/* Global genric styling */
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    background-color: white;
+}
+
+#sidebar {
+    background: #03363d;
+    color: #fff;
+    transition: all 0.3s;
+} 
+
+
+#sidebar {
+    min-width: 100px;
+    max-width: 250px;
+    min-height: 100vh;
+}
+.col {
+    padding-top: 5px;
+}
+.col- {
+    padding-top: 5px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-top: 2rem;
+}
+
+
+.pagecount{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+svg {
+    display: inline;
+}
+
