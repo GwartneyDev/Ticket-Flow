@@ -6,35 +6,24 @@ Ticket-Flow is an MVP IT help desk ticketing application. From designing to plan
 
 ## Specific features added to the project
 
-- Implemented ability to add ticket queues
-- Created ticket search through ticket ID
-- Applied ticket count per individual queue
-- Set up ability to show tickets assigned to specific queue
-- Added ability to update assigned users, priority status, and ticket status
-- Setup reply section for users to leave notes on the ticket
+- Ticket-Flow: Spearheaded the creation of an MVP IT help desk ticketing app using Laravel,
+jetStream-inertia, Vue.js, BootStrapVue, Eloquent ORM, and Laravel-Sail.
+  - Outcome: Established a robust prototype for efficient IT ticket management, enhancing user
+support processes.
+- Implemented Ticket Queue Functionality: Introduced ticket queues for organized ticket management
+and improved workflow efficiency.
+  - Outcome: Streamlined task allocation, allowing for effective issue resolution and resource
+utilization.
+- Enhanced User Interaction: Developed features for updates to user assignments, priority, and status,
+along with a user-friendly reply section.
+  - Outcome: Improved collaboration for support teams and end user satisfaction, facilitating
+seamless issue resolution
 
 
 
 ## Project Demo 
-![project Demo](https://github.com/gwartney21/JustFixIt/blob/master/Screen%20Recording%202021-07-17%20at%206.39.02%20PM.gif)
 
-
-
-## First project design ideas
-
-To come up with the project designs I researched similar applications and derived inspiration for the designs. I then took and gathered them all and placed them into a mood board.
-
-![App Screenshot](https://raw.githubusercontent.com/gwartney21/JustFixIt/master/fixIt/OriginalDesign1.png)
-
-![App Screenshot](https://raw.githubusercontent.com/gwartney21/JustFixIt/master/fixIt/OrignalDesign2.png)
-
-## Current project design
-![App Screenshot](https://raw.githubusercontent.com/gwartney21/JustFixIt/master/Screen%20Shot%202021-07-17%20at%206.40.32%20PM.png)
-
-![App Screenshot](https://raw.githubusercontent.com/gwartney21/JustFixIt/master/Screen%20Shot%202021-07-17%20at%206.40.54%20PM.png)
-
-![App Screenshot](https://raw.githubusercontent.com/gwartney21/JustFixIt/master/Screen%20Shot%202021-07-17%20at%206.41.06%20PM.png)
-
+![App Screenshot](https://github.com/GwartneyDev/Ticket-Flow/blob/main/fixIt/TicketSystemVideo.gif)
 
 
 ## Future Project Updates.
