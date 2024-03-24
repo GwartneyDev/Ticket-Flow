@@ -1,7 +1,11 @@
 ## About Project
+
+
 > ## NOTE PROJECT UNDERACTIVE DEVELOPMENT AND REBRANDING NOT EVERYTHING IN THE BELOW HAS BEEN UPDATED TO REFLECT CHANGES:
 Ticket-Flow is an MVP IT help desk ticketing application. From designing to planning out the functionality, data structure, and logic flows, I developed this full application by implementing my skills in Laravel, jetStream-inertia, Vue.js, BootStrapVue, Eloquent ORM ,Laravel-Sail
  
+![image](https://github.com/GwartneyDev/Ticket-Flow/blob/main/Capture.png)
+
 
 
 ## Specific features added to the project
